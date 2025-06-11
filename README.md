@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMG_1101.jpg" alt="Laerte Delmondes Avatar" width="200" style="border-radius: 50%;" />
+  <img src="Avatar.jpg" alt="Laerte Delmondes Avatar" width="200" style="border-radius: 50%;" />
 </p>
 
 
