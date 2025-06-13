@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="Avatar.jpg" alt="Laerte Delmondes Avatar" width="200" style="border-radius: 50%;" />
-</p>
-
-
 <h1 align="center">👋 Hello, my name is Laerte Delmondes</h1>
 <h1 align="center"><strong>but you can call me <code>LaerteDelmondes</code> 👨‍💻</h1>
 
