@@ -40,9 +40,6 @@
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaerteDelmondes&layout=compact&theme=radical" alt="Laerte's Most Used Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LaerteDelmondes&theme=radical" alt="GitHub Streak" />
-</p>
 
 
 ---
