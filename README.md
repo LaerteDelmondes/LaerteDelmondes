@@ -4,7 +4,7 @@
 
 
 <h1 align="center">👋 Hello, my name is Laerte Delmondes</h1>
-<h1 align="center"><strong>but you can call me <code>LaerteDelmondes</code> 😄</h1>
+<h1 align="center"><strong>but you can call me <code>LaerteDelmondes</code> 👨‍💻</h1>
 
 
 <p align="center">
@@ -38,14 +38,15 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaerteDelmondes&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LaerteDelmondes&show_icons=true&count_private=true&theme=radical" alt="Laerte's GitHub Stats" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaerteDelmondes&layout=compact&theme=radical" alt="Laerte's Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaerteDelmondes&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LaerteDelmondes&theme=radical" alt="GitHub Streak" />
 </p>
 
 
@@ -61,3 +62,6 @@
 <p align="center">
   🖤 Thanks for visiting my profile!
 </p>
+
+
+
